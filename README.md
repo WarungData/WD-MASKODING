@@ -1,8 +1,4 @@
 # WD-MASKODING
-
-┬┐┌─┐┌─┐┬┌─┌─┐┌┬┐┬┌┐┌┌─┐
-│││├─┤└─┐├┴┐│ │ │││││││ ┬
-┴ ┴┴ ┴└─┘┴ ┴└─┘─┴┘┴┘└┘└─┘
 PT. Warung Data Indonesia
 
 Maskoding adalah Artificial Inteligent untuk pembuatan koding autgenerator
