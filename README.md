@@ -4,17 +4,16 @@ PT. Warung Data Indonesia
 ![maskoding](image/1111.jpg)
 
 Maskoding adalah Artificial Inteligent untuk pembuatan koding autgenerator
-pada pemrograman apapun. Menggunakan Deep Learning bisa
-dengan Keras maupun Tensorflow.
+pada pemrograman apapun. Menggunakan * *Deep Learning* * bisa
+dengan * *Keras* * maupun * *Tensorflow* *.
 
 RNN (Reccurent Neural Network) dengan dataset yang berisi file-file jenis
 bahasa pemrograman yang ingin dilatih.
 
-Tiga variabel penting yang perlu diingat di sini adalah vocab_to_int,
-int_to_vocab dan disandikan.
+Tiga variabel penting yang perlu diingat di sini adalah **vocab_to_int**,
+**int_to_vocab** dan **encoded**.
 
-Dua yang pertama memungkinkan kita untuk dengan mudah beralih antara karakter dan int dan sebaliknya. Yang terakhir adalah representasi semua dataset kami dalam format encoder.
-(Hanya int bukan karakter).
+Dua yang pertama memungkinkan kita untuk dengan mudah beralih antara karakter dan int dan sebaliknya. Yang terakhir adalah representasi semua dataset kami dalam format encoder (Hanya int bukan karakter).
 
 Inisialisasi sel LSTM (http://colah.github.io/posts/2015-08-Understanding-LSTMs/) digunakan untuk membuat RNN. Lapisan output terhubung ke setiap sel.
 
