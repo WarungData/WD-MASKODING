@@ -1,7 +1,7 @@
 # WD-MASKODING
 PT. Warung Data Indonesia
 
-![]image/1111.jpg
+![maskoding](image/1111.jpg)
 
 Maskoding adalah Artificial Inteligent untuk pembuatan koding autgenerator
 pada pemrograman apapun. Menggunakan Deep Learning bisa
