@@ -4,8 +4,8 @@ PT. Warung Data Indonesia
 ![maskoding](image/1111.jpg)
 
 Maskoding adalah Artificial Inteligent untuk pembuatan koding autgenerator
-pada pemrograman apapun. Menggunakan * *Deep Learning* * bisa
-dengan * *Keras* * maupun * *Tensorflow* *.
+pada pemrograman apapun. Menggunakan *Deep Learning* bisa
+dengan *Keras* maupun *Tensorflow*.
 
 RNN (Reccurent Neural Network) dengan dataset yang berisi file-file jenis
 bahasa pemrograman yang ingin dilatih.
